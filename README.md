@@ -1,7 +1,7 @@
 # Customer_Behavior_Analysis# Customer Shopping Behavior – Data Cleaning & Analysis using Pandas
 
 ## 📌 Project Overview
-This project focuses on cleaning, transforming, and preparing a customer shopping behavior dataset using **Python (Pandas) in Jupyter Notebook**. The cleaned data is further structured for analytical use and successfully loaded into **PostgreSQL, MySQL, and MS SQL Server** databases.
+This project focuses on cleaning, transforming, and preparing a customer shopping behavior dataset using **Python (Pandas) in Jupyter Notebook**. 
 
 The objective is to demonstrate **end-to-end data handling** — from raw CSV ingestion to database integration — following best practices used in real-world analytics workflows.
 
