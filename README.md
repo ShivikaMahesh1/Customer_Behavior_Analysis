@@ -1,4 +1,4 @@
-# Customer_Behavior_Analysis# Customer Shopping Behavior – Data Cleaning & Analysis using Pandas
+# Customer Shopping Behavior – Data Cleaning & Analysis using Pandas
 
 ## 📌 Project Overview
 This project focuses on cleaning, transforming, and preparing a customer shopping behavior dataset using **Python (Pandas) in Jupyter Notebook**. 
